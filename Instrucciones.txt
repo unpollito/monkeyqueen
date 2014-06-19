@@ -1,0 +1,9 @@
+Todas las clases, excepto MonkeyQueenApp, deben ir dentro
+del paquete aima.core.environment.monkeyqueen, que debe
+ser creado. MonkeyQueenApp debe ir dentro del paquete
+aima.gui.applications.search.games.
+
+Las cuatro imágenes adjuntas deben acompañar a los
+archivos .class que se generan al ejecutar MonkeyQueenApp.
+Habitualmente suelen encontrarse en
+\workspace\aima-gui\bin\aima\gui\applications\search\games.

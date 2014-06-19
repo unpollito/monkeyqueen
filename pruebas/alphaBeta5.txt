@@ -1,0 +1,529 @@
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -  +11   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -12   -   -
+
+
+from (2, 0) to (2, 3)
+time: 1093
+nodes expanded: {expandedNodes=172822}
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -  +11   -   -   -
+
+   -   -   -   -  -11   -
+
+   -   -   -  -1   -   -
+
+
+from (3, 5) to (4, 4)
+time: 980
+nodes expanded: {expandedNodes=167878}
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -  +10   -   -   -   -
+
+   -   -  +1   -   -   -
+
+   -   -   -   -  -11   -
+
+   -   -   -  -1   -   -
+
+
+from (2, 3) to (1, 2)
+time: 1160
+nodes expanded: {expandedNodes=455426}
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -  +10   -   -   -   -
+
+   -   -  +1   -   -   -
+
+   -   -   -   -  -1  -10
+
+   -   -   -  -1   -   -
+
+
+from (4, 4) to (5, 4)
+time: 1153
+nodes expanded: {expandedNodes=500954}
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -  +1   -   -   -   -
+
+  +9   -  +1   -   -   -
+
+   -   -   -   -  -1  -10
+
+   -   -   -  -1   -   -
+
+
+from (1, 2) to (0, 3)
+time: 1961
+nodes expanded: {expandedNodes=780080}
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -  +1   -   -   -   -
+
+  +9   -  +1   -   -   -
+
+   -   -   -   -  -1  -1
+
+   -   -   -  -1   -  -9
+
+
+from (5, 4) to (5, 5)
+time: 1496
+nodes expanded: {expandedNodes=603714}
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -  +1  +1   -   -   -
+
+  +9   -  +1   -   -   -
+
+   -   -   -   -  -1  -1
+
+   -   -   -  -1   -  -9
+
+
+from (2, 0) to (2, 2)
+time: 1744
+nodes expanded: {expandedNodes=661948}
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -  +1  +1   -   -   -
+
+  +9   -  +1   -  -1   -
+
+   -   -   -   -  -1   -
+
+   -   -   -  -1   -  -9
+
+
+from (5, 4) to (4, 3)
+time: 789
+nodes expanded: {expandedNodes=291461}
+   -   -   -   -   -   -
+
+  +8   -   -   -   -   -
+
+   -  +1  +1   -   -   -
+
+  +1   -  +1   -  -1   -
+
+   -   -   -   -  -1   -
+
+   -   -   -  -1   -  -9
+
+
+from (0, 3) to (0, 1)
+time: 955
+nodes expanded: {expandedNodes=316390}
+   -   -   -   -   -   -
+
+  +8   -   -   -   -   -
+
+   -  +1  +1   -   -   -
+
+  +1   -  +1   -   -   -
+
+   -   -   -  -1  -1   -
+
+   -   -   -  -1   -  -9
+
+
+from (4, 3) to (3, 4)
+time: 2531
+nodes expanded: {expandedNodes=952200}
+   -   -   -   -   -   -
+
+  +8   -   -   -   -   -
+
+   -  +1  +1   -   -   -
+
+  +1   -   -   -   -   -
+
+   -   -   -  +1  -1   -
+
+   -   -   -  -1   -  -9
+
+
+from (2, 3) to (3, 4)
+time: 2756
+nodes expanded: {expandedNodes=842073}
+   -   -   -   -   -   -
+
+  +8   -   -   -   -   -
+
+   -  +1  +1   -   -   -
+
+  +1   -   -   -   -   -
+
+   -   -   -  -1  -1   -
+
+   -   -   -   -   -  -9
+
+
+from (3, 5) to (3, 4)
+time: 966
+nodes expanded: {expandedNodes=432090}
+   -   -   -   -   -   -
+
+  +8   -   -   -   -   -
+
+   -   -  +1   -   -   -
+
+  +1   -   -   -   -   -
+
+   -   -   -  +1  -1   -
+
+   -   -   -   -   -  -9
+
+
+from (1, 2) to (3, 4)
+time: 2925
+nodes expanded: {expandedNodes=934894}
+   -   -   -   -   -   -
+
+  +8   -   -   -   -   -
+
+   -   -  -1   -   -   -
+
+  +1   -   -   -   -   -
+
+   -   -   -  +1   -   -
+
+   -   -   -   -   -  -9
+
+
+from (4, 4) to (2, 2)
+time: 626
+nodes expanded: {expandedNodes=298181}
+   -   -   -   -   -   -
+
+  +1   -   -   -  +7   -
+
+   -   -  -1   -   -   -
+
+  +1   -   -   -   -   -
+
+   -   -   -  +1   -   -
+
+   -   -   -   -   -  -9
+
+
+from (0, 1) to (4, 1)
+time: 865
+nodes expanded: {expandedNodes=345980}
+   -   -   -   -   -   -
+
+  +1   -   -   -  +7   -
+
+   -   -   -   -   -  -1
+
+  +1   -   -   -   -   -
+
+   -   -   -  +1   -   -
+
+   -   -   -   -   -  -9
+
+
+from (2, 2) to (5, 2)
+time: 496
+nodes expanded: {expandedNodes=255946}
+   -   -   -   -   -   -
+
+  +1   -   -   -  +7   -
+
+   -   -   -   -   -  +1
+
+  +1   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -  -9
+
+
+from (3, 4) to (5, 2)
+time: 1245
+nodes expanded: {expandedNodes=507531}
+   -   -   -   -   -   -
+
+  +1   -   -   -  +7   -
+
+   -   -   -   -   -  +1
+
+  +1   -   -   -   -   -
+
+   -   -   -   -   -  -8
+
+   -   -   -   -   -  -1
+
+
+from (5, 5) to (5, 4)
+time: 286
+nodes expanded: {expandedNodes=139878}
+   -   -   -   -   -   -
+
+   -   -  +1   -  +7   -
+
+   -   -   -   -   -  +1
+
+  +1   -   -   -   -   -
+
+   -   -   -   -   -  -8
+
+   -   -   -   -   -  -1
+
+
+from (0, 1) to (2, 1)
+time: 2480
+nodes expanded: {expandedNodes=857472}
+   -   -   -   -   -   -
+
+   -   -  +1   -  +7   -
+
+   -   -   -   -   -  +1
+
+  +1   -   -   -   -  -7
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 4) to (5, 3)
+time: 286
+nodes expanded: {expandedNodes=127787}
+   -   -   -   -   -   -
+
+   -   -   -   -  +7   -
+
+   -   -   -   -   -  +1
+
+  +1   -  +1   -   -  -7
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (2, 1) to (2, 3)
+time: 1555
+nodes expanded: {expandedNodes=556712}
+   -   -   -   -   -   -
+
+   -   -   -   -  +7   -
+
+   -   -   -   -   -  -7
+
+  +1   -  +1   -   -   -
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 3) to (5, 2)
+time: 371
+nodes expanded: {expandedNodes=173938}
+   -   -   -   -  +6   -
+
+   -   -   -   -  +1   -
+
+   -   -   -   -   -  -7
+
+  +1   -  +1   -   -   -
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (4, 1) to (4, 0)
+time: 1130
+nodes expanded: {expandedNodes=406558}
+   -   -   -   -  +6   -
+
+   -   -   -   -  +1   -
+
+   -   -   -   -   -  -1
+
+  +1   -  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 2) to (5, 3)
+time: 376
+nodes expanded: {expandedNodes=181176}
+   -   -   -   -  +6   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -  +1  -1
+
+  +1   -  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (4, 1) to (4, 2)
+time: 2570
+nodes expanded: {expandedNodes=984159}
+   -   -   -   -  +6   -
+
+   -   -   -   -   -  -1
+
+   -   -   -   -  +1   -
+
+  +1   -  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 2) to (5, 1)
+time: 601
+nodes expanded: {expandedNodes=282495}
+   -   -   -   -  +1   -
+
+   -   -   -   -   -  -1
+
+   -   -   -   -  +1   -
+
+  +1  +5  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (4, 0) to (1, 3)
+time: 1195
+nodes expanded: {expandedNodes=445974}
+   -   -   -   -  +1   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -  +1  -1
+
+  +1  +5  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 1) to (5, 2)
+time: 1026
+nodes expanded: {expandedNodes=554401}
+   -   -   -   -   -   -
+
+   -   -   -   -  +1   -
+
+   -   -   -   -  +1  -1
+
+  +1  +5  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (4, 0) to (4, 1)
+time: 2399
+nodes expanded: {expandedNodes=861402}
+   -   -   -   -   -   -
+
+   -   -   -   -  +1   -
+
+   -   -   -   -  +1   -
+
+  +1  +5  +1   -  -1  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 2) to (4, 3)
+time: 491
+nodes expanded: {expandedNodes=259630}
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -  +1  +1
+
+  +1  +5  +1   -  -1  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (4, 1) to (5, 2)
+time: 1410
+nodes expanded: {expandedNodes=443141}
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -  -1  +1
+
+  +1  +5  +1   -   -  -6
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (4, 3) to (4, 2)
+time: 326
+nodes expanded: {expandedNodes=167331}
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -  -1   -
+
+  +1  +5  +1   -   -  +1
+
+   -   -   -   -   -  -1
+
+   -   -   -   -   -  -1
+
+
+from (5, 2) to (5, 3)
+time: 985
+nodes expanded: {expandedNodes=386898}
+total time: 41230

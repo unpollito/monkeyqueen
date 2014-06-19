@@ -1,0 +1,337 @@
+   -   -  +1   -   -   -
+
+   -   -  +11   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -12   -   -
+
+
+from (2, 0) to (2, 1)
+time: 1024
+nodes expanded: {expandedNodes=103364, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +11   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -11   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -1   -   -
+
+
+from (3, 5) to (3, 3)
+time: 786
+nodes expanded: {expandedNodes=198557, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -11   -   -
+
+   -   -   -   -   -  +10
+
+   -   -   -  -1   -   -
+
+
+from (2, 1) to (5, 4)
+time: 815
+nodes expanded: {expandedNodes=323044, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +1   -   -   -
+
+   -   -   -   -   -   -
+
+   -  -10   -  -1   -   -
+
+   -   -   -   -   -  +10
+
+   -   -   -  -1   -   -
+
+
+from (3, 3) to (1, 3)
+time: 921
+nodes expanded: {expandedNodes=350165, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +1   -   -   -
+
+   -   -   -   -   -  +9
+
+   -  -10   -  -1   -   -
+
+   -   -   -   -   -  +1
+
+   -   -   -  -1   -   -
+
+
+from (5, 4) to (5, 2)
+time: 1032
+nodes expanded: {expandedNodes=415408, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +1   -   -   -
+
+   -   -   -   -   -  +9
+
+   -  -1   -  -1   -   -
+
+   -   -   -   -   -  +1
+
+   -  -9   -  -1   -   -
+
+
+from (1, 3) to (1, 5)
+time: 1057
+nodes expanded: {expandedNodes=351002, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +1   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -  -1   -  -1   -   -
+
+   -   -   -   -   -  +1
+
+   -  -9   -  -1   -   -
+
+
+from (5, 2) to (4, 1)
+time: 1100
+nodes expanded: {expandedNodes=360569, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -  +1   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -  -1   -  -1   -   -
+
+   -   -  -1   -   -  +1
+
+   -  -9   -   -   -   -
+
+
+from (3, 5) to (2, 4)
+time: 1004
+nodes expanded: {expandedNodes=251952, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -   -   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -  -1   -  -1   -   -
+
+   -   -  +1   -   -  +1
+
+   -  -9   -   -   -   -
+
+
+from (2, 1) to (2, 4)
+time: 1081
+nodes expanded: {expandedNodes=240287, maxDepth=5}
+   -   -  +1   -   -   -
+
+   -   -   -   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -   -   -  -1   -   -
+
+   -   -  -1   -   -  +1
+
+   -  -9   -   -   -   -
+
+
+from (1, 3) to (2, 4)
+time: 1026
+nodes expanded: {expandedNodes=343568, maxDepth=5}
+   -   -   -   -   -   -
+
+   -   -   -   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -   -   -  -1   -   -
+
+   -   -  +1   -   -  +1
+
+   -  -9   -   -   -   -
+
+
+from (2, 0) to (2, 4)
+time: 1078
+nodes expanded: {expandedNodes=338397, maxDepth=5}
+   -   -   -   -   -   -
+
+   -   -   -   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -  -1   -   -  +1
+
+   -  -9   -   -   -   -
+
+
+from (3, 3) to (2, 4)
+time: 1056
+nodes expanded: {expandedNodes=442516, maxDepth=5}
+   -   -   -   -   -   -
+
+   -   -   -   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -  +1   -   -   -
+
+   -  -9   -   -   -   -
+
+
+from (5, 4) to (2, 4)
+time: 1026
+nodes expanded: {expandedNodes=351922, maxDepth=5}
+   -   -   -   -   -   -
+
+   -   -   -   -  +8   -
+
+   -   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -  -9   -   -   -
+
+   -   -   -   -   -   -
+
+
+from (1, 5) to (2, 4)
+time: 617
+nodes expanded: {expandedNodes=264546, maxDepth=5}
+   -   -   -   -   -   -
+
+   -  +7   -   -  +1   -
+
+   -   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -  -9   -   -   -
+
+   -   -   -   -   -   -
+
+
+from (4, 1) to (1, 1)
+time: 1038
+nodes expanded: {expandedNodes=394478, maxDepth=5}
+   -   -   -   -   -   -
+
+   -  +7   -   -  +1   -
+
+   -   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -  -1   -   -   -
+
+   -   -   -  -8   -   -
+
+
+from (2, 4) to (3, 5)
+time: 438
+nodes expanded: {expandedNodes=179312, maxDepth=5}
+   -   -   -   -   -   -
+
+  +6  +1   -   -  +1   -
+
+   -   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -  -1   -   -   -
+
+   -   -   -  -8   -   -
+
+
+from (1, 1) to (0, 1)
+time: 1034
+nodes expanded: {expandedNodes=363304, maxDepth=5}
+   -   -   -   -   -   -
+
+  +6  +1   -   -  +1   -
+
+  -1   -   -   -   -  +1
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -8   -   -
+
+
+from (2, 4) to (0, 2)
+time: 729
+nodes expanded: {expandedNodes=316361, maxDepth=5}
+   -   -   -   -   -   -
+
+  +6  +1   -   -  +1   -
+
+  +1   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -8   -   -
+
+
+from (5, 2) to (0, 2)
+time: 871
+nodes expanded: {expandedNodes=402891, maxDepth=5}
+   -   -   -   -   -   -
+
+  +6  +1   -   -  +1   -
+
+  +1   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  -7   -   -
+
+   -   -   -  -1   -   -
+
+
+from (3, 5) to (3, 4)
+time: 452
+nodes expanded: {expandedNodes=181350, maxDepth=5}
+   -   -   -   -   -   -
+
+   -  +1   -   -  +1   -
+
+  +1   -   -   -   -   -
+
+   -   -   -   -   -   -
+
+   -   -   -  +6   -   -
+
+   -   -   -  -1   -   -
+
+
+from (0, 1) to (3, 4)
+time: 0
+nodes expanded: {expandedNodes=35, maxDepth=1}
+total time: 18189
